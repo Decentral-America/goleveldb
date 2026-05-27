@@ -12,9 +12,9 @@ import (
 
 	"github.com/onsi/gomega"
 
-	"github.com/wavesplatform/goleveldb/leveldb/errors"
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/errors"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 type DB any

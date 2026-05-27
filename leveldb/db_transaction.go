@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 var errTransactionDone = errors.New("leveldb: transaction already closed")

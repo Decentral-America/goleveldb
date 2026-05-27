@@ -7,7 +7,7 @@
 package leveldb
 
 import (
-	"github.com/wavesplatform/goleveldb/leveldb/errors"
+	"github.com/Decentral-America/goleveldb/leveldb/errors"
 )
 
 // Common errors.

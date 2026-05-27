@@ -7,11 +7,11 @@
 package leveldb
 
 import (
-	"github.com/wavesplatform/goleveldb/leveldb/errors"
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/errors"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 // Reader is the interface that wraps basic Get and NewIterator methods.

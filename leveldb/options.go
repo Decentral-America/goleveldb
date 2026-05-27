@@ -7,8 +7,8 @@
 package leveldb
 
 import (
-	"github.com/wavesplatform/goleveldb/leveldb/filter"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/filter"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
 )
 
 func dupOptions(o *opt.Options) *opt.Options {

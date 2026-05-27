@@ -12,10 +12,10 @@ import (
 	"os"
 	"sync"
 
-	"github.com/wavesplatform/goleveldb/leveldb/errors"
-	"github.com/wavesplatform/goleveldb/leveldb/journal"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/errors"
+	"github.com/Decentral-America/goleveldb/leveldb/journal"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
 )
 
 // ErrManifestCorrupted records manifest corruption. This error will be

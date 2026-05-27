@@ -15,11 +15,11 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
-	"github.com/wavesplatform/goleveldb/leveldb/testutil"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/testutil"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 type tableWrapper struct {

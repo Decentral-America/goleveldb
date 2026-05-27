@@ -18,10 +18,10 @@ import (
 	"github.com/klauspost/compress/zstd"
 	"github.com/minio/minlz"
 
-	"github.com/wavesplatform/goleveldb/leveldb/comparer"
-	"github.com/wavesplatform/goleveldb/leveldb/filter"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/comparer"
+	"github.com/Decentral-America/goleveldb/leveldb/filter"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 func sharedPrefixLen(a, b []byte) int {

@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wavesplatform/goleveldb/leveldb/filter"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/filter"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
 )
 
 const ctValSize = 1000

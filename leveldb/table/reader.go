@@ -20,14 +20,14 @@ import (
 	"github.com/klauspost/compress/zstd"
 	"github.com/minio/minlz"
 
-	"github.com/wavesplatform/goleveldb/leveldb/cache"
-	"github.com/wavesplatform/goleveldb/leveldb/comparer"
-	"github.com/wavesplatform/goleveldb/leveldb/errors"
-	"github.com/wavesplatform/goleveldb/leveldb/filter"
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
-	"github.com/wavesplatform/goleveldb/leveldb/util"
+	"github.com/Decentral-America/goleveldb/leveldb/cache"
+	"github.com/Decentral-America/goleveldb/leveldb/comparer"
+	"github.com/Decentral-America/goleveldb/leveldb/errors"
+	"github.com/Decentral-America/goleveldb/leveldb/filter"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/util"
 )
 
 // Reader errors.

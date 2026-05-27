@@ -1,4 +1,4 @@
-module github.com/wavesplatform/goleveldb
+module github.com/Decentral-America/goleveldb
 
 go 1.25.0
 

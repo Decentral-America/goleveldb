@@ -10,9 +10,9 @@ package opt
 import (
 	"math"
 
-	"github.com/wavesplatform/goleveldb/leveldb/cache"
-	"github.com/wavesplatform/goleveldb/leveldb/comparer"
-	"github.com/wavesplatform/goleveldb/leveldb/filter"
+	"github.com/Decentral-America/goleveldb/leveldb/cache"
+	"github.com/Decentral-America/goleveldb/leveldb/comparer"
+	"github.com/Decentral-America/goleveldb/leveldb/filter"
 )
 
 const (

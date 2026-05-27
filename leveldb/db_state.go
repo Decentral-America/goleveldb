@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/wavesplatform/goleveldb/leveldb/journal"
-	"github.com/wavesplatform/goleveldb/leveldb/memdb"
-	"github.com/wavesplatform/goleveldb/leveldb/storage"
+	"github.com/Decentral-America/goleveldb/leveldb/journal"
+	"github.com/Decentral-America/goleveldb/leveldb/memdb"
+	"github.com/Decentral-America/goleveldb/leveldb/storage"
 )
 
 var (

@@ -10,9 +10,9 @@ import (
 	"sort"
 	"sync/atomic"
 
-	"github.com/wavesplatform/goleveldb/leveldb/iterator"
-	"github.com/wavesplatform/goleveldb/leveldb/memdb"
-	"github.com/wavesplatform/goleveldb/leveldb/opt"
+	"github.com/Decentral-America/goleveldb/leveldb/iterator"
+	"github.com/Decentral-America/goleveldb/leveldb/memdb"
+	"github.com/Decentral-America/goleveldb/leveldb/opt"
 )
 
 const (
